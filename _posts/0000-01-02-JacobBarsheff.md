@@ -1,6 +1,6 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+
+Hello People of the Interweb!
 Use the left arrow to go back!
